@@ -179,8 +179,7 @@ class Dashboard extends CI_Controller {
 	}
 	/**
 	 * Dashboard 
-	 * Get jobs from Filemaker using Google Map api - US and UK calander
-	 
+	 * Get jobs from Filemaker using Google Map api - US and UK calander	 
 	 * @shows calander view for US and UK office.
 	 */
 	public function calendar()
@@ -200,8 +199,7 @@ class Dashboard extends CI_Controller {
 	}
 	/**
 	 * NOT USED AT THE MOMENT 
-	 * 
-	 
+	 * 	 
 	 * @using ajax filling job list from local data base.
 	 */
 	public function job_list()
@@ -216,8 +214,7 @@ class Dashboard extends CI_Controller {
 	}
 	/**
 	 * NOT USED AT THE MOMENT 
-	 * 
-	 
+	 * 	 
 	 * @using ajax filling job list from local data base.
 	 */
 	public function getJobList($client_id)
@@ -336,8 +333,7 @@ public function showL()
 	}
 	/**
 	 * Comunicate with Filmaker and upload time to Filmaker server 
-	 * 
-	 
+	 *	 
 	 * @return result
 	 */
 	public function uploadtime()
