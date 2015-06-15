@@ -369,3 +369,7 @@ public function showL()
 	}
 	
 }
+// END dashboard controller
+
+/* End of file dashboard.php */
+/* Location: ./application/controller/dashboard.php */ 
